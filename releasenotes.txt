@@ -1,0 +1,7 @@
+Version 0.1 Beta 1 2009000001 
+
+Release Date: September 29th 2019 
+
+Changes: 
+
+* First released version of Spectrum Database System

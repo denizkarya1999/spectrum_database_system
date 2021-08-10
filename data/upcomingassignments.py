@@ -1,0 +1,13 @@
+import os 
+print("************************************")
+print("Upcoming Assignments")
+print("************************************")
+print("Lab 06 - Due to September 30th 2019")
+print("Quiz 03 - Due to October 2nd 2019")
+print("Quiz 04 - Due to October 9th 2019")
+print("Quiz 05 - Due to October 16th 2019")
+print("Quiz 06 - Due to October 23rd 2019")
+print("Quiz 07 - Due to November 13th 2019")
+print("Quiz 08 - Due to November 21st 2019")
+print("************************************")
+os.system('adminterminal.py')
